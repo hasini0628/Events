@@ -1,0 +1,7 @@
+<html>
+
+<body onload="alert('welcome')" onunload="alert('thankyou')">
+    hello
+</body>
+
+</html>
